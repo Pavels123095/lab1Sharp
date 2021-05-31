@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\work\Sharp\lab1\bin\Debug\lab1.exe.config
+C:\Users\User\Desktop\work\Sharp\lab1\bin\Debug\lab1.exe
+C:\Users\User\Desktop\work\Sharp\lab1\bin\Debug\lab1.pdb
+C:\Users\User\Desktop\work\Sharp\lab1\bin\Debug\DotLiquid.dll
+C:\Users\User\Desktop\work\Sharp\lab1\bin\Debug\DotLiquid.xml
+C:\Users\User\Desktop\work\Sharp\lab1\bin\Debug\it\DotLiquid.resources.dll
+C:\Users\User\Desktop\work\Sharp\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\work\Sharp\lab1\obj\Debug\lab1.Form1.resources
+C:\Users\User\Desktop\work\Sharp\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\User\Desktop\work\Sharp\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\work\Sharp\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\work\Sharp\lab1\obj\Debug\lab1.csproj.CopyComplete
+C:\Users\User\Desktop\work\Sharp\lab1\obj\Debug\lab1.exe
+C:\Users\User\Desktop\work\Sharp\lab1\obj\Debug\lab1.pdb
