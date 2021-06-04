@@ -15,11 +15,24 @@ namespace lab1
     {
         public Form1()
         {
+            // Создание классов при появлении формы
             lab1.Student Stl1 = new Student("John", 2, "321234");
+            lab1.Aspirant asp1 = new Aspirant(Stl1.Name,Stl1.Course,Stl1.GradeBook,"C# program");
+            lab1.ZavKafedry zav1 = new ZavKafedry(asp1.Name, asp1.Course, asp1.GradeBook, asp1.Topic, "IT beginning");
             InitializeComponent();
             label10.Text = Stl1.Name;
             label12.Text = Stl1.Course.ToString();
             label14.Text = Stl1.GradeBook;
+            label19.Text = asp1.Name;
+            label17.Text = asp1.Course.ToString();
+            label15.Text = asp1.GradeBook;
+            label22.Text = asp1.Topic;
+            label2.Text = zav1.Name;
+            label6.Text = zav1.Course.ToString();
+            label7.Text = zav1.GradeBook;
+            label8.Text = zav1.Topic;
+            label24.Text = zav1.Kafedra;
+
         }
 
         private void Button2_Click(object sender, EventArgs e)
@@ -28,6 +41,36 @@ namespace lab1
             label10.Text = Stl1.Name;
             label12.Text = Stl1.Course.ToString();
             label14.Text = Stl1.GradeBook;
+            lab1.Aspirant asp1 = new Aspirant(Stl1.Name, Stl1.Course, Stl1.GradeBook, "C# program");
+            lab1.ZavKafedry zav1 = new ZavKafedry(asp1.Name, asp1.Course, asp1.GradeBook, asp1.Topic, "IT beginning");
+            label19.Text = asp1.Name;
+            label17.Text = asp1.Course.ToString();
+            label15.Text = asp1.GradeBook;
+            label22.Text = asp1.Topic;
+            label2.Text = zav1.Name;
+            label6.Text = zav1.Course.ToString();
+            label7.Text = zav1.GradeBook;
+            label8.Text = zav1.Topic;
+            label24.Text = zav1.Kafedra;
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            lab1.Aspirant asp1 = new Aspirant(textBox7.Text,Decimal.ToInt32(numericUpDown3.Value), textBox6.Text, textBox8.Text);
+            label19.Text = asp1.Name;
+            label17.Text = asp1.Course.ToString();
+            label15.Text = asp1.GradeBook;
+            label22.Text = asp1.Topic;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            lab1.ZavKafedry zav1 = new ZavKafedry(textBox1.Text, Decimal.ToInt32(numericUpDown1.Value), textBox3.Text, textBox2.Text, textBox9.Text);
+            label2.Text = zav1.Name;
+            label6.Text = zav1.Course.ToString();
+            label7.Text = zav1.GradeBook;
+            label8.Text = zav1.Topic;
+            label24.Text = zav1.Kafedra;
         }
     }
 
