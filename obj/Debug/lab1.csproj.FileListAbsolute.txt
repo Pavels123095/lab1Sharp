@@ -12,3 +12,17 @@ C:\Users\User\Desktop\work\Sharp\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.ca
 C:\Users\User\Desktop\work\Sharp\lab1\obj\Debug\lab1.csproj.CopyComplete
 C:\Users\User\Desktop\work\Sharp\lab1\obj\Debug\lab1.exe
 C:\Users\User\Desktop\work\Sharp\lab1\obj\Debug\lab1.pdb
+C:\Users\Pavel\Source\Repos\Pavels123095\lab1Sharp\bin\Debug\lab1.exe.config
+C:\Users\Pavel\Source\Repos\Pavels123095\lab1Sharp\bin\Debug\lab1.exe
+C:\Users\Pavel\Source\Repos\Pavels123095\lab1Sharp\bin\Debug\lab1.pdb
+C:\Users\Pavel\Source\Repos\Pavels123095\lab1Sharp\bin\Debug\DotLiquid.dll
+C:\Users\Pavel\Source\Repos\Pavels123095\lab1Sharp\bin\Debug\DotLiquid.xml
+C:\Users\Pavel\Source\Repos\Pavels123095\lab1Sharp\bin\Debug\it\DotLiquid.resources.dll
+C:\Users\Pavel\Source\Repos\Pavels123095\lab1Sharp\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\Pavel\Source\Repos\Pavels123095\lab1Sharp\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\Pavel\Source\Repos\Pavels123095\lab1Sharp\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\Pavel\Source\Repos\Pavels123095\lab1Sharp\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Source\Repos\Pavels123095\lab1Sharp\obj\Debug\lab1.csproj.CopyComplete
+C:\Users\Pavel\Source\Repos\Pavels123095\lab1Sharp\obj\Debug\lab1.exe
+C:\Users\Pavel\Source\Repos\Pavels123095\lab1Sharp\obj\Debug\lab1.pdb
+C:\Users\Pavel\Source\Repos\Pavels123095\lab1Sharp\obj\Debug\lab1.Form1.resources
